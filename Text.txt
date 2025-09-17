@@ -1,0 +1,12 @@
+mynewgarden-backend/
+├─ app/
+│  ├─ __init__.py
+│  ├─ main.py
+│  ├─ database.py
+│  ├─ models.py
+│  ├─ crud.py
+│  ├─ schemas.py
+│  └─ storage.py
+├─ requirements.txt
+├─ Dockerfile
+└─ uploads/   (dieser Ordner kann leer bleiben, Render legt ihn selbst an)
